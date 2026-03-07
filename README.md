@@ -64,7 +64,7 @@ Ficou com dúvida em algum exercício ou achou um erro?
 
 **👤 Autor**
 
-**Seu Nome** \- [@](https://www.google.com/search?q=https://github.com/seu_usuario)emxcoder
+**Manuel Joao manuel** \- [@emxcoder](https://github.com/emxcoder)
 
 *Gostou do conteúdo? Deixe uma ⭐ neste repositório\!*
 
