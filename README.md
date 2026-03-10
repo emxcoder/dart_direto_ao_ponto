@@ -4,7 +4,7 @@
 
 Este repositório contém todo o código-fonte, exercícios e materiais de apoio da playlist **"Dart Direto ao Ponto"** no YouTube. O objetivo deste curso é ensinar a linguagem Dart de forma objetiva, focando no que realmente importa para o mercado e para o desenvolvimento com Flutter.
 
-📺 [**Assistir à Playlist no YouTube**](https://youtu.be/6EqheOOCtFg)
+📺 [**Assistir à Playlist no YouTube**](https://www.youtube.com/playlist?list=PLARQ343DSn0K6nVoTRX_W653hJp-gmNPl)
 
 ## ---
 
@@ -25,6 +25,7 @@ O Dart é uma linguagem otimizada para o cliente, desenvolvida pelo Google para 
 | Módulo | Aula | Assunto | Link do Código | Vídeo |
 | :---- | :---- | :---- | :---- | :---- |
 | **1\. O Básico** | 01 | Setup e Hello World | [Ver código](https://github.com/emxcoder/dart_direto_ao_ponto/blob/main/modulo_1_basico/1.hello_world.dart) | [Assistir](https://youtu.be/6EqheOOCtFg?si=mLL8byUc2xxOoYhd) |
+| **2.O Basico** | 02 | Variaveis e Tipagem | [Ver codigo](https://github.com/emxcoder/dart_direto_ao_ponto/blob/main/modulo_1_basico/2.1.variaveis.dart) | [Assistir](https://youtu.be/sSSRjVO-zTg?si=g0A8RTW3-74JdRj1) |
 
 ## ---
 
